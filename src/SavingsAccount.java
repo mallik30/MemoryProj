@@ -11,7 +11,7 @@ public class SavingsAccount extends Object {
 	
 	
 	
-	//default constructor 
+	//default constructor ctrl+space to get it
 	public SavingsAccount() {
 		// TODO Auto-generated constructor stub
 	}
